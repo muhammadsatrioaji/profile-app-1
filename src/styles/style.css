@@ -1,0 +1,64 @@
+.profile {
+  background-color: #10499f;
+  height: 20rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.7);
+  color: white;
+}
+
+.profile_name {
+  margin-top: 15px;
+  font-size: 1.5em;
+}
+
+.profile_image {
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
+  border: 5px solid #272133;
+  margin-top: 40px;
+}
+
+#summary {
+  margin-left: 100px;
+  margin-top: 20px;
+  text-align: justify;
+}
+
+.garis_verikal {
+  border-left: 1px black solid;
+  height: 210px;
+  width: 0px;
+  margin-top: 30px;
+}
+
+#information {
+  margin-top: 20px;
+  margin-right: 100px;
+  margin-left: 20px;
+}
+
+.social-links {
+  display: flex;
+}
+
+.social-links ul {
+  display: flex;
+}
+
+.social-items {
+  list-style: none;
+}
+
+.social-items a {
+  font-size: 50px;
+  padding: 10px 50px;
+}
+
+.text-find {
+  text-align: center;
+  position: relative;
+  display: flex;
+}

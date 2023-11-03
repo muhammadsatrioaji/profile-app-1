@@ -1,0 +1,22 @@
+{
+  "name": "profile_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadsatrioaji/profile-app-1.git"
+  },
+  "author": "aji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadsatrioaji/profile-app-1/issues"
+  },
+  "homepage": "https://github.com/muhammadsatrioaji/profile-app-1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
